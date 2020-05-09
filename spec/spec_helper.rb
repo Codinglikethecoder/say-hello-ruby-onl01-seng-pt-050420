@@ -1,4 +1,4 @@
-def say_hello greeting: programer: "Hello Ruby programer!"
+def say_hello programer: "Hello Ruby programer!"
 puts programer
 end
 
