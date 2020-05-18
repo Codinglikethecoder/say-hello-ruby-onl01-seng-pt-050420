@@ -1,7 +1,7 @@
-def say_hello programer: "Hello Ruby programer!"
+def say_hello: "Hello Ruby programer!"
 puts programer
 end
 
 say_hello 
 
-Say_hello programer: "Tom"
+Say_hello programer: "Gabriela"
